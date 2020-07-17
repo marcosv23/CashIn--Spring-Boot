@@ -1,5 +1,5 @@
 # CashIn-
- :smiley
+ :smiley:
  
 Hello, I'm workink in this project, making now the frontend to integrates with API.
 This uses security features and the major SpringBoot features. 
